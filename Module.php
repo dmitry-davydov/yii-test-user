@@ -1,6 +1,6 @@
 <?php
 
-namespace ddavydov\yiitestuser;
+namespace ddavydov;
 
 
 class Module extends \yii\base\Module

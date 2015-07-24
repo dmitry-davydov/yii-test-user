@@ -1,6 +1,6 @@
 <?php
 
-namespace ddavydov\yiitestuser\controllers;
+namespace ddavydov\controllers;
 
 use yii\web\Controller;
 
