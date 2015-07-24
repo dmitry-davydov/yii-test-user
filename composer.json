@@ -1,0 +1,21 @@
+{
+  "name": "ddavydov/yii-test-user",
+  "description": "test module for yii2",
+  "keywords": [],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Dmitry Davydov",
+      "email": "davidov.dima@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ddavydov\\yiitestuser\\": ""
+    }
+  }
+}
