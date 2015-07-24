@@ -18,6 +18,6 @@ class TestController extends Controller
 
   public function actionTest()
   {
-    VarDumper::dump($this, 10, true);
+    VarDumper::dump('base module', 10, true);
   }
 }
